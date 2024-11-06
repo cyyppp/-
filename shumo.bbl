@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{friedman2001greedy}
+Jerome~H Friedman.
+\newblock Greedy function approximation: a gradient boosting machine.
+\newblock {\em Annals of statistics}, pages 1189--1232, 2001.
+
+\bibitem{jain2016complete}
+Aarshay Jain.
+\newblock Complete guide to parameter tuning in gradient boosting (gbm) in
+  python.
+\newblock {\em Analyticsvidhya. com}, 2016.
+
+\bibitem{kano2000fractal}
+Fumiaki Kano, Ikuo Abe, Hiroshi Kamaya, and Issaku Ueda.
+\newblock Fractal model for adsorption on activated carbon surfaces: Langmuir
+  and freundlich adsorption.
+\newblock {\em Surface Science}, 467(1-3):131--138, 2000.
+
+\bibitem{xue2011极限学习机的快速留一交叉验证算法}
+LIU Xue-Yi-a, LI~Ping-a, GAO Chuan-Hou-c, et~al.
+\newblock 极限学习机的快速留一交叉验证算法.
+\newblock {\em 上海交通大学学报}, 45(08):1140--1145, 2011.
+
+\bibitem{张云华2009统计学中四分位数的计算}
+张云华.
+\newblock 统计学中四分位数的计算.
+\newblock {\em 中国高新技术企业}, (20):173--174, 2009.
+
+\end{thebibliography}

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: shumo.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--there's a number but no volume in 张云华2009统计学中四分位数的计算
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            533 strings with 4794 characters,
+and the built_in function-call counts, 1754 in all, are:
+= -- 181
+> -- 67
+< -- 1
++ -- 27
+- -- 22
+* -- 125
+:= -- 291
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 25
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 65
+empty$ -- 136
+format.name$ -- 22
+if$ -- 363
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 10
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 49
+stack$ -- 0
+substring$ -- 146
+swap$ -- 16
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 1
+while$ -- 19
+width$ -- 6
+write$ -- 56
+(There was 1 warning)
